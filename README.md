@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on different projects related to Public Education
+- 🔭 I’m currently working on different projects related to AI field
 - 🌱 I’m currently learning algorithms and data structures in python
-- 👯 I’m looking to collaborate on AI based backend applications
+- 👯 I’m looking to collaborate on Data driven AI projects
 - 💬 Ask me about python
 - 📫 How to reach me: email: muzaffarbek007@gmail.com || telegram: @UNDEFEATED007
 - 😄 Pronouns: He/His

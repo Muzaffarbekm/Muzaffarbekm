@@ -1,4 +1,4 @@
-### Hello, I'm Muzaffarbek Muratov 👋
+### Hello, I'm Muzaffar Muratov 👋
 
 
 
